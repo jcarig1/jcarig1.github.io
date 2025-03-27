@@ -3,4 +3,4 @@
 
 # Obvious WIP
 
-<a href = "https://www.jacobcarignan.com/publications">
+<a href = "https://www.jacobcarignan.com/publications">Publications</a>
