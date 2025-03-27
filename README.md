@@ -3,4 +3,4 @@
 
 # Obvious WIP
 
-[Curriculum Vitae](https://jacobcarignan.com/CV)
+[Curriculum Vitae](/CV)
