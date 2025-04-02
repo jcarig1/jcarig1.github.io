@@ -1,7 +1,7 @@
 <html>
-  <title>Jacob Carignan</title>
+
   <head>
-   
+    <title>Jacob Carignan</title>
     <link rel="icon" type = "image/x-icon" href = "/favicon(1).ico">
   </head>
 
